@@ -1,4 +1,4 @@
-<h2 align="center">Hola 👋, soy Daniel Pérez M. Ingeniero y profesor de FP 💻📱🎮</h2>
+<h3>Hola 👋, soy Daniel Pérez M. Ingeniero y profesor de FP 💻📱🎮</h3>
 
 - 🔭 Estoy trabajando como profesor de DAM en Medac Jaén
 - 🌱 En este GitHub enseño a mis alumnos y alumnas a trabajar sus proyectos de código en un entorno Git y en la nube
